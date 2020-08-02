@@ -1,0 +1,239 @@
+/cast [combat] garrote
+/cast [combat] rupture
+/cast [combat] garrote
+/cast [combat] reaping flames
+/cast [combat] vendetta
+/cast [combat] toxic blade
+/cast [combat] blood fury
+/use [combat] 13
+/use [combat] 14
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] reaping flames
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] vanish
+/cast [combat] garrote
+/cast [combat] garrote
+/use [combat] 13
+/use [combat] 14
+/cast [combat] envenom
+/cast [combat] toxic blade
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] reaping flames
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] mutilate
+/cast [combat] garrote
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] envenom
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/cast [combat] envenom
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/use [combat] 13
+/use [combat] 14
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] garrote
+/cast [combat] mutilate
+/use [combat] 13
+/use [combat] 14
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] vanish
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] vendetta
+/cast [combat] potion
+/cast [combat] blood fury
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] toxic blade
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] envenom
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/use [combat] 13
+/use [combat] 14
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] garrote
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] garrote
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] toxic blade
+/use [combat] 13
+/use [combat] 14
+/cast [combat] envenom
+/cast [combat] reaping flames
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] vanish
+/cast [combat] garrote
+/cast [combat] mutilate
+/cast [combat] vendetta
+/cast [combat] blood fury
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] toxic blade
+/cast [combat] mutilate
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] reaping flames
+/cast [combat] mutilate
+/cast [combat] rupture
+/cast [combat] garrote
+/cast [combat] mutilate
+/use [combat] 13
+/use [combat] 14
+/cast [combat] envenom
+/cast [combat] mutilate
+/cast [combat] mutilate
+/cast [combat] envenom
